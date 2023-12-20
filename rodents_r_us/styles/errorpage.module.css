@@ -1,0 +1,26 @@
+.error {
+    text-align: center;
+    margin-bottom: 5em;
+    color: var(--lightest-color);
+}
+
+.title {
+    font-size: var(--big-font);
+    margin: 0;
+}
+
+.desc {
+    margin-bottom: 2em;
+}
+
+.link {
+    color: var(--lightest-color);
+    padding: 1em;
+    border-radius: 1em;
+    background-color: var(--medium-color);
+    transition: 0.25s;
+}
+
+.link:hover {
+    background-color: var(--dark-color);
+}

@@ -1,0 +1,23 @@
+.main {
+    margin: 0 15%;
+    display: flex;
+}
+
+.desc {
+    margin-right: 5%;
+}
+
+.images {
+    margin-top: 7em;
+    display: flex;
+    flex-direction: column;
+}
+
+.img {
+    width: 100%;
+    height: auto;
+}
+
+.img:hover{
+    transform: scale(150%);
+}

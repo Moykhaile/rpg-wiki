@@ -1,0 +1,22 @@
+.footer {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top: solid 2px var(--dark-color);
+    margin-top: 4em;
+    padding-bottom: 2em;
+}
+
+.semper {
+    margin-top: 2em;
+    font-size: larger;
+}
+
+.author {
+    font-size: var(--small-font);
+}
+
+.symbol {
+    color: var(--medium-color);
+}

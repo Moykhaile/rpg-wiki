@@ -1,0 +1,29 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.calendario {
+    font-size: var(--smallest-font);
+    margin-bottom: 2em;
+}
+
+.list {
+    border-left: 2px solid var(--dark-color);
+    padding-left: 2em;
+    margin-left: 2em;
+    height: 100%;
+}
+
+.list ul {
+    list-style-type: none;
+    padding: 0;
+}

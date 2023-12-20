@@ -1,0 +1,9 @@
+.text {
+    font-size: var(--small-font);
+}
+
+.titulo {
+    margin-right: 1em;
+    color: var(--light-color);
+    font-size: var(--small-font);
+}
