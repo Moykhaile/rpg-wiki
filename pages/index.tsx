@@ -4,7 +4,7 @@ import Link from 'next/link';
 export default function Home() {
   return (
     <main className={home.main}>
-      <a href='/' className={home.calendario}>Calendário de Algihand</a>
+      <Link href='/' className={home.calendario}>Calendário de Algihand</Link>
       <div className={home.wrap}>
         <div className={home.list}>
           <h1>Raças</h1>
