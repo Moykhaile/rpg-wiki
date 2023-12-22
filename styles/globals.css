@@ -59,7 +59,7 @@ a:hover {
   text-decoration: underline var(--medium-color);
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 768px) {
   :root {
     --bigger-font: 28px;
     --big-font: 24px;
