@@ -15,7 +15,7 @@ export default function Home() {
             <li><Link href='/Khenras'>Khenras</Link></li>
             <li><Link href="/Reptilianos">Reptilianos</Link></li>
             <li><Link href="/Vampiros">Vampiros</Link></li>
-            <li><Link href="http://dnd5ed.github.io/">Outras (ver LDJ)</Link></li>
+            <li><Link href="http://dnd5ed.github.io/" rel="noopener noreferrer" target="_blank">Outras (ver LDJ)</Link></li>
           </ul>
         </div>
         <div className={home.list}>
