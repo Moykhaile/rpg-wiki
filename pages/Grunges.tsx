@@ -18,6 +18,7 @@ export default function Avianos() {
                 <ItemWiki titulo="Tamanho." desc="Grunges têm entre 75 centímetros e 1 metro de altura e pesam em média cerca de 13kg. Seu tamanho é Pequeno." />
                 <ItemWiki titulo="Deslocamento." desc="Você tem uma velocidade de caminhada 8 metros. Suas almofadas adesivas nos dedos das mãos e dos pés lhe conferem uma velocidade de escalada de 8 metros." />
                 <ItemWiki titulo="Idiomas." desc="Você pode falar, ler e escrever Grunge." />
+                <br />
                 <ItemWiki titulo="Sub-raça." desc="Grunges podem vir em várias cores: amarelo, verde, azul, vermelho e roxo." />
                 <ItemWiki titulo="Vigilância Arborícola." desc="Você possui proficiência na habilidade de Percepção." />
                 <ItemWiki titulo="Anfíbio." desc="Você pode respirar ar e água." />

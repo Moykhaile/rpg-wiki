@@ -18,6 +18,7 @@ export default function Avianos() {
                 <ItemWiki titulo="Tamanho." desc="Devido às suas diversas formas, o tamanho da raça Khajiit é inteiramente dependente da sub-raça." />
                 <ItemWiki titulo="Deslocamento." desc="Sua velocidade de caminhada base é de 10 metros." />
                 <ItemWiki titulo="Idiomas." desc="Você pode falar, ler e escrever Comum e Ta'agra. Ta'agra é a língua nativa dos Khajiit e pode ser usada para falar com gatos e outros felinos. Usam o alfabeto Sylvan." />
+                <br />
                 <ItemWiki titulo="Garras." desc="Você tem um conjunto de garras retráteis. Seus ataques desarmados causam 1d4 de dano cortante. Você pode usar Destreza em vez de Força para os ataques e rolagens de dano de seus ataques de garra." />
                 <ItemWiki titulo="Visão no Escuro." desc="Graças à sua herança felina. Você pode ver em luz fraca em um raio de 60 pés, como se fosse luz brilhante, e em escuridão como se fosse luz fraca. Você não consegue discernir cores na escuridão, apenas tons de cinza." />
                 <ItemWiki titulo="Lua Escondida." desc="Você tem uma cauda preênsil e pode usá-la para ataques desarmados." />

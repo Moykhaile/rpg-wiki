@@ -19,6 +19,7 @@ export default function Avianos() {
                 <ItemWiki titulo="Tamanho." desc="Seu tamanho depende de sua raça mista." />
                 <ItemWiki titulo="Deslocamento." desc="Sua velocidade de caminhada depende de sua raça mista." />
                 <ItemWiki titulo="Idiomas." desc="Você pode falar, ler e escrever Vampírico, além dos idiomas de sua raça mista." />
+                <br />
                 <ItemWiki titulo="Visão no Escuro." desc="Graças à sua herança, você tem uma visão superior em condições de escuridão e penumbra. Você pode ver em luz fraca dentro de 16 metros de você como se fosse luz normal, e em escuridão como se fosse penumbra. Você não pode discernir cores na escuridão, apenas tons de cinza." />
                 <ItemWiki titulo="Resistência Vampírica." desc="Você possui resistência a dano necrótico." />
                 <ItemWiki titulo="Sede de Sangue." desc="Você pode drenar sangue e energia vital de uma criatura disposta ou que esteja agarrada, incapacitada ou restrita por você. Faça um ataque corpo a corpo contra o alvo. Se atingir, você causa 1 de dano perfurante e 1d6 de dano necrótico. O valor máximo de pontos de vida do alvo é reduzido por uma quantidade igual ao dano necrótico sofrido, e você recupera pontos de vida igual a essa quantidade. A redução dura até que o alvo termine um descanso longo. O alvo morre se esse efeito reduzir seu valor máximo de pontos de vida para 0." />
