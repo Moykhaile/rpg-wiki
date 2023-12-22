@@ -58,3 +58,14 @@ a:hover {
   color: var(--light-color);
   text-decoration: underline var(--medium-color);
 }
+
+@media only screen and (min-width: 768px) {
+  :root {
+    --bigger-font: 28px;
+    --big-font: 24px;
+    --not-so-big-font: 18px;
+    --medium-font: 14px;
+    --small-font: 12px;
+    --smaller-font: 8px;
+  }
+}
