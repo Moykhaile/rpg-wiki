@@ -8,3 +8,10 @@
 .titulo {
     font-size: var(--big-font);
 }
+
+.desc {
+    text-indent: 2em;
+    padding-left: -2em;
+    margin: 0;
+    margin-bottom: 2em;
+}

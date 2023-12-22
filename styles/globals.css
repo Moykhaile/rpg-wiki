@@ -9,6 +9,7 @@
 
   --bigger-font: 38px;
   --big-font: 32px;
+  --not-so-big-font: 20px;
   --medium-font: 16px;
   --small-font: 14px;
   --smaller-font: 12px;
@@ -38,6 +39,13 @@ h1 {
 
 h2 {
   font-size: var(--big-font);
+  line-height: 0em;
+  margin: 2em 0 1em 0;
+}
+
+h3 {
+  font-size: var(--not-so-big-font);
+  font-weight: normal;
   line-height: 0em;
   margin: 2em 0 1em 0;
 }

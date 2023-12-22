@@ -18,6 +18,10 @@
     height: auto;
 }
 
-.img:hover{
+.img:hover {
     transform: scale(150%);
+}
+
+.primeiroh2 {
+    margin-top: 0;
 }

@@ -5,7 +5,7 @@ import ItemWiki from "@/components/itemWiki"
 
 import Wiki from "@/styles/wiki.module.css"
 
-const desc = "Os avianos são pessoas que possuem características de pássaros, tendo, assim, muita diversidade em suas características e habilidades.\nTodos os avianos possuem asas, que variam de acordo com o pássaro que herdam, e podem se transformar, criando um bico no seus rostos e penas pelos corpos e cabelos.\nOs principais pássaros herdados são: beija-flores, papagaios, canários, sabiás e bem-te-vis.\nOs avianos não conseguem explicar a história de suas origens, mas alguns textos em sua língua nativa dizem ser \"uma incrível exceção da natureza\"."
+const desc = "Os avianos são pessoas que possuem características de pássaros, tendo, assim, muita diversidade em suas características e habilidades.</p><p>Todos os avianos possuem asas, que variam de acordo com o pássaro que herdam, e podem se transformar, criando um bico no seus rostos e penas pelos corpos e cabelos.</p><p>Os principais pássaros herdados são: beija-flores, papagaios, canários, sabiás e bem-te-vis.</p><p>Os avianos não conseguem explicar a história de suas origens, mas alguns textos em sua língua nativa dizem ser \"uma incrível exceção da natureza\"."
 
 export default function Avianos() {
     return (
