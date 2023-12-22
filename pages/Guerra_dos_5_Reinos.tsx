@@ -7,7 +7,7 @@ export default function Guerra_dos_5_Reinos() {
     return (
         <main className={Wiki.main}>
             <div className={Wiki.desc}>
-                <TituloWiki titulo="Guerra dos 5 Mundos" desc="Durante o reinado do hoje conhecido como Antigo Parlamento de Algihand, onde 30 membros de diversas raças diferentes comandavam o reino continental de mesmo nome, um dos membros, César Alvus Na'arkhbar, se opôs a falta de controle da miscigenação e demandou que seu povo, os humanos, fossem separados em território das outras raças. Isso rapidamente se tornou uma discussão fervorenta onde os humanos apoiavam as ideias de César e alguns de raças diversas apoiavam a exclusão daqueles considerados aberrações.<br>Após alguns anos de discussões entre os parlamentares e a população geral, centenas de ataques começaram a se popularizar por todo o Reino de Algihand, contabilizando mais de 1400 mortes de todos os tipos e raças de pessoas. Alguns coordenados e outros movidos pelo ódio que se gerou nesse tempo, na propagação de ideias de César e preconceitos já existentes que se manifestaram." />
+                <TituloWiki titulo="Guerra dos 5 Mundos" desc="Durante o reinado do hoje conhecido como Antigo Parlamento de Algihand, onde 30 membros de diversas raças diferentes comandavam o reino continental de mesmo nome, um dos membros, César Alvus Na'arkhbar, se opôs a falta de controle da miscigenação e demandou que seu povo, os humanos, fossem separados em território das outras raças. Isso rapidamente se tornou uma discussão fervorenta onde os humanos apoiavam as ideias de César e alguns de raças diversas apoiavam a exclusão daqueles considerados aberrações.<p/><p>Após alguns anos de discussões entre os parlamentares e a população geral, centenas de ataques começaram a se popularizar por todo o Reino de Algihand, contabilizando mais de 1400 mortes de todos os tipos e raças de pessoas. Alguns coordenados e outros movidos pelo ódio que se gerou nesse tempo, na propagação de ideias de César e preconceitos já existentes que se manifestaram." />
                 <h2>Matnnahomma</h2>
                 <ItemWiki titulo="" desc="Os elfos, que já sofriam alguns preconceitos por parte dos humanos, lutaram por anos contra os humanos. Com armamento dos anões, conseguiram expulsar, matar e aprisionar humanos tomando todo o território leste do continente. Os elfos criaram um ódio mortal contra eles e juraram que defenderiam seu reino, Matnnahoma, até a morte." />
                 <h2>Reino dos Anões</h2>
@@ -18,8 +18,3 @@ export default function Guerra_dos_5_Reinos() {
         </main>
     )
 }
-
-/*
-Durante o reinado do hoje conhecido como Antigo Parlamento de Algihand, onde 30 membros de diversas raças diferentes comandavam o reino continental de mesmo nome, um dos membros, César Alvus Na'arkhbar, se opôs a falta de controle da miscigenação e demandou que seu povo, os humanos, fossem separados em território das outras raças. Isso rapidamente se tornou uma discussão fervorenta onde os humanos apoiavam as ideias de César e alguns de raças diversas apoiavam a exclusão daqueles considerados aberrações.
-Após alguns anos de discussões entre os parlamentares e a população geral, um desastre aconteceu.Centenas de ataques começaram a se popularizar por todo o Reino de Algihand, contabilizando mais de 1400 mortes de todos os tipos e raças de pessoas.Alguns coordenados e outros movidos pelo ódio que se gerou nesse tempo, na propagação de ideias de César e preconceitos já existentes que se manifestaram.
-*/

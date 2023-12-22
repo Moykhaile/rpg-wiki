@@ -61,8 +61,8 @@ a:hover {
 
 @media only screen and (max-width: 768px) {
   :root {
-    --bigger-font: 28px;
-    --big-font: 24px;
+    --bigger-font: 24px;
+    --big-font: 20px;
     --not-so-big-font: 18px;
     --medium-font: 14px;
     --small-font: 12px;
