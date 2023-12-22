@@ -1,7 +1,6 @@
 import TituloWikiCSS from '@/styles/titulowiki.module.css'
 
 export default function TituloWiki({ titulo, desc }: any) {
-    console.log(desc.replace(/\n/g, '<br>'));
     return (
         <div className={TituloWikiCSS.wrap}>
             <h1 className={TituloWikiCSS.titulo}>
