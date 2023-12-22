@@ -35,3 +35,10 @@
 .header:hover .title {
     transform: translate(-0.5em, 0);
 }
+
+@media only screen and (max-width: 768px) {
+    .img {
+        width: 1em;
+        height: 1em;
+    }
+}
