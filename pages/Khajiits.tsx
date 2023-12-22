@@ -5,7 +5,7 @@ import ItemWiki from "@/components/itemWiki"
 
 import Wiki from "@/styles/wiki.module.css"
 
-const desc = "AAAAAAAAAA"
+const desc = "Os khajiit são como os humanos... exceto que são também como gatos. Gostam de brincar, adoram peixe cru e suas aparências são como as de um humano com características de gato.</p><p>As características físicas de felinos que os khajiit herdam são: unhas/garras afiadas que podem retrair em seus dedos, orelhas de gato super alertas, sentido de balanço, oufato e até mesmo podem crescer bigodes de gato. Sua grande maioria tem um porte atlético devido à sua natureza ativa, e podem crescer pelos mais rápido que um humano."
 
 export default function Avianos() {
     return (
