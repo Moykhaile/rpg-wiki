@@ -44,7 +44,7 @@ export default function Avianos() {
                 <ItemWiki titulo="Tamanho." desc="A altura dos Tojay está entre 1,37 e 1,8 metros, e seu peso varia entre 45 e 60kg. Seu tamanho é Médio." />
             </div>
             <div className={Wiki.images}>
-                <Image className={Wiki.img} src="./Khajiit.png" width={1600} height={1200} alt="Uma khajiit" />
+                <Image className={Wiki.img} src="../Khajiit.png" width={1600} height={1200} alt="Uma khajiit" />
             </div>
         </main>
     )

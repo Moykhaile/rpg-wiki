@@ -38,7 +38,7 @@ export default function Avianos() {
                 <ItemWiki titulo="Influência dos Homens-Lagarto." desc="Você é proficiente em uma habilidade de sua escolha: Percepção, Furtividade ou Sobrevivência." />
             </div>
             <div className={Wiki.images}>
-                <Image className={Wiki.img} src="./Reptiliano.png" width={1600} height={1200} alt="Uma reptiliano" />
+                <Image className={Wiki.img} src="../Reptiliano.png" width={1600} height={1200} alt="Uma reptiliano" />
             </div>
         </main>
     )

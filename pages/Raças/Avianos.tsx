@@ -26,7 +26,7 @@ export default function Avianos() {
                 <ItemWiki titulo="Olhos de Falcão." desc="Você tem proficiência na perícia Percepção. Adicionalmente, atacar a longo alcance não impõe desvantagem em suas jogadas de ataque a distancia." />
             </div>
             <div className={Wiki.images}>
-                <Image className={Wiki.img} src="./Aviana.png" width={1600} height={1200} alt="Uma garota aviana" />
+                <Image className={Wiki.img} src="../Aviana.png" width={1600} height={1200} alt="Uma garota aviana" />
             </div>
         </main>
     )
