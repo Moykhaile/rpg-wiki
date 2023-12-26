@@ -5,7 +5,7 @@ import ItemWiki from "@/components/itemWiki"
 
 import Wiki from "@/styles/wiki.module.css"
 
-const desc = "AAAAAAAAAA"
+const desc = "Grunges são criaturas racionais anfíbias que têm descendência direta dos sapos, podendo inclusive se comunicar com outros anfíbios e até mesmo alguns répteis. São a única raça que não consegue se transformar em humano, e as que sofrem maior preconceito no continente. Algumas espécies de grunge são venenosas, e podem liberar um suco peçonhento pelos poros de suas peles. Possuem vantagem na água e desvantagem em ambientes secos, precisam sempre se hidratar."
 
 export default function Avianos() {
     return (
