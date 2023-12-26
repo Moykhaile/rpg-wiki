@@ -21,7 +21,15 @@ export default function Home() {
         <div className={home.list}>
           <h1>História do Mundo</h1>
           <ul>
-            <li><Link href="/Guerra_dos_5_Reinos">Guerra dos 5 Reinos</Link></li>
+            <li><Link href="/História_do_mundo/Guerra_dos_5_Reinos">Guerra dos 5 Reinos</Link></li>
+          </ul>
+        </div>
+        <div className={home.list}>
+          <h1>Localidades</h1>
+          <ul>
+            <li><Link href="/Localidades/Algihand">O Continente de Algihand</Link></li>
+            <li><Link href="/Localidades/Matnnahoma">Matnnahoma</Link></li>
+            <li><Link href='/Localidades/Reino_dos_Anoes'>Reino dos Anões</Link></li>
           </ul>
         </div>
       </div>

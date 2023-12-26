@@ -5,7 +5,7 @@ import ItemWiki from "@/components/itemWiki"
 
 import Wiki from "@/styles/wiki.module.css"
 
-export default function Algihand() {
+export default function Matnnahoma() {
     return (
         <main className={Wiki.main}>
             <div className={Wiki.desc}>
