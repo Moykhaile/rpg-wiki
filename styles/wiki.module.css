@@ -19,6 +19,8 @@
 }
 
 .img {
+    min-width: 100em;
+    max-width: 150em;
     width: 100%;
     height: auto;
     border: solid 2px var(--lightest-color);
