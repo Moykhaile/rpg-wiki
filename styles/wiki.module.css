@@ -3,11 +3,6 @@
     display: flex;
 }
 
-.maincolumn {
-    flex-direction: column;
-    margin: 0 2%;
-}
-
 .desc {
     margin-right: 5%;
 }

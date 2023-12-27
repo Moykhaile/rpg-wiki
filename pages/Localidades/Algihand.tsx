@@ -7,7 +7,7 @@ import Wiki from "@/styles/wiki.module.css"
 
 export default function Algihand() {
     return (
-        <main className={Wiki.main && Wiki.column}>
+        <main className={Wiki.main}>
             <div className={Wiki.desc}>
                 <TituloWiki titulo="Algihand" desc="Continente (Pop. 3500)" />
                 <ItemWiki titulo="Largura." desc="21km" />
