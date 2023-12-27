@@ -5,6 +5,7 @@
 
 .maincolumn {
     flex-direction: column;
+    margin: 0 2%;
 }
 
 .desc {
