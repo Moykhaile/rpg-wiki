@@ -3,6 +3,10 @@
     display: flex;
 }
 
+.maincolumn {
+    flex-direction: column;
+}
+
 .desc {
     margin-right: 5%;
 }
@@ -36,5 +40,9 @@
 
     .desc {
         margin-right: 1%;
+    }
+
+    .images {
+        margin-top: 2em;
     }
 }
