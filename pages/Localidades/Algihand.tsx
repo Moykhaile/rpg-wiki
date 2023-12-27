@@ -9,7 +9,7 @@ export default function Algihand() {
     return (
         <main className={Wiki.main}>
             <div className={Wiki.desc}>
-                <TituloWiki titulo="Algihand" desc="Continente (Pop. 3500)" />
+                <TituloWiki titulo="Algihand" desc="Continente (Pop. 3560)" />
                 <ItemWiki titulo="Largura." desc="21km" />
                 <ItemWiki titulo="Altura." desc="22,5km" />
                 <ItemWiki titulo="Área." desc="10.752km" />
