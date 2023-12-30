@@ -15,18 +15,24 @@ export default function Matnnahoma() {
                 <ItemWiki titulo="Cidades." desc="5 cidades (2 portos e uma ilha), Hain'ky, Jarven, Osteri, Saarem'Ta e Valissa." />
             </div>
             <div className={Wiki.images}>
-                <Image className={Wiki.img} src="../Matnnahoma/Matnnahoma.png" width={4095} height={4095} alt="Um mapa de Algihand" />
-                <Link href="../Matnnahoma/Matnnahoma.png"><ItemWiki titulo=">" desc="O mapa da metrópole de Matnnahoma." /> </Link> <br />
-                <Image className={Wiki.img} src="../Matnnahoma/Hain'Ky.png" width={4095} height={4095} alt="Um mapa de Algihand" />
-                <Link href="../Matnnahoma/Matnnahoma.png"><ItemWiki titulo=">" desc="O mapa do porto de Hain'Ky." /> </Link> <br />
-                <Image className={Wiki.img} src="../Matnnahoma/Jarven.png" width={4095} height={4095} alt="Um mapa de Algihand" />
-                <Link href="../Matnnahoma/Matnnahoma.png"><ItemWiki titulo=">" desc="O mapa da cidade de Jarven." /> </Link> <br />
-                <Image className={Wiki.img} src="../Matnnahoma/Osteri.png" width={4095} height={4095} alt="Um mapa de Algihand" />
-                <Link href="../Matnnahoma/Matnnahoma.png"><ItemWiki titulo=">" desc="O mapa do porto de Osteri." /> </Link > <br />
-                <Image className={Wiki.img} src="../Matnnahoma/Saarem'Ta.png" width={4095} height={4095} alt="Um mapa de Algihand" />
-                <Link href="../Matnnahoma/Matnnahoma.png"><ItemWiki titulo=">" desc="O mapa da cidade da ilha de Saarem'Ta." /> </Link> <br />
-                <Image className={Wiki.img} src="../Matnnahoma/Valissa.png" width={4095} height={4095} alt="Um mapa de Algihand" />
-                <Link href="../Matnnahoma/Matnnahoma.png"><ItemWiki titulo=">" desc="O mapa da cidade de Valissa." /> </Link>
+                <Link href="../Matnnahoma/Matnnahoma.png">
+                    <Image className={Wiki.img} src="../Matnnahoma/Matnnahoma.png" width={4095} height={4095} alt="Um mapa de Algihand" />
+                    <ItemWiki titulo=">" desc="O mapa da metrópole de Matnnahoma." /> </Link> <br />
+                <Link href="../Matnnahoma/Matnnahoma.png">
+                    <Image className={Wiki.img} src="../Matnnahoma/Hain'Ky.png" width={4095} height={4095} alt="Um mapa de Algihand" />
+                    <ItemWiki titulo=">" desc="O mapa do porto de Hain'Ky." /> </Link> <br />
+                <Link href="../Matnnahoma/Matnnahoma.png">
+                    <Image className={Wiki.img} src="../Matnnahoma/Jarven.png" width={4095} height={4095} alt="Um mapa de Algihand" />
+                    <ItemWiki titulo=">" desc="O mapa da cidade de Jarven." /> </Link> <br />
+                <Link href="../Matnnahoma/Matnnahoma.png">
+                    <Image className={Wiki.img} src="../Matnnahoma/Osteri.png" width={4095} height={4095} alt="Um mapa de Algihand" />
+                    <ItemWiki titulo=">" desc="O mapa do porto de Osteri." /> </Link > <br />
+                <Link href="../Matnnahoma/Matnnahoma.png">
+                    <Image className={Wiki.img} src="../Matnnahoma/Saarem'Ta.png" width={4095} height={4095} alt="Um mapa de Algihand" />
+                    <ItemWiki titulo=">" desc="O mapa da cidade da ilha de Saarem'Ta." /> </Link> <br />
+                <Link href="../Matnnahoma/Matnnahoma.png">
+                    <Image className={Wiki.img} src="../Matnnahoma/Valissa.png" width={4095} height={4095} alt="Um mapa de Algihand" />
+                    <ItemWiki titulo=">" desc="O mapa da cidade de Valissa." /> </Link>
             </div>
         </main>
     )
