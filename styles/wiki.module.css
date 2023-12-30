@@ -20,10 +20,6 @@
     border-radius: 2em;
 }
 
-.img:hover {
-    transform: scale(150%);
-}
-
 .primeiroh2 {
     margin-top: 0;
 }
@@ -41,4 +37,8 @@
     .images {
         margin-top: 2em;
     }
+}
+
+.zoomable:hover {
+    transform: scale(150%);
 }

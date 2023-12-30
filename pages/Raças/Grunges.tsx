@@ -29,7 +29,7 @@ export default function Avianos() {
 Você também pode aplicar esse veneno a qualquer arma perfurante como parte de um ataque com essa arma, embora quando atingir, o veneno reaja de maneira diferente. O alvo deve ser bem-sucedido em um teste de resistência de Constituição CD 12 ou sofrer 2d4 de dano por veneno." />
             </div>
             <div className={Wiki.images}>
-                <Image className={Wiki.img} src="../Grunge.png" width={1600} height={1200} alt="Uma grunge" />
+                <Image className={Wiki.img && Wiki.zoomable} src="../Grunge.png" width={1600} height={1200} alt="Uma grunge" />
             </div>
         </main>
     )

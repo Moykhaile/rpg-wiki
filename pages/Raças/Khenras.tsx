@@ -25,7 +25,7 @@ export default function Avianos() {
                 <ItemWiki titulo="Sentidos Caninos." desc="Você possui proficiência na habilidade de Percepção e vantagem em testes de Sabedoria (Percepção) que dependem do olfato." />
             </div>
             <div className={Wiki.images}>
-                <Image className={Wiki.img} src="../Khenra.png" width={1600} height={1200} alt="Um khenra" />
+                <Image className={Wiki.img && Wiki.zoomable} src="../Khenra.png" width={1600} height={1200} alt="Um khenra" />
             </div>
         </main>
     )

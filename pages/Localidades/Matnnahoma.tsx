@@ -4,6 +4,7 @@ import TituloWiki from "@/components/tituloWiki"
 import ItemWiki from "@/components/itemWiki"
 
 import Wiki from "@/styles/wiki.module.css"
+import Link from "next/link"
 
 export default function Matnnahoma() {
     return (
@@ -15,17 +16,17 @@ export default function Matnnahoma() {
             </div>
             <div className={Wiki.images}>
                 <Image className={Wiki.img} src="../Matnnahoma/Matnnahoma.png" width={4095} height={4095} alt="Um mapa de Algihand" />
-                <ItemWiki titulo=">" desc="O mapa da metrópole de Matnnahoma." />
+                <Link href="../Matnnahoma/Matnnahoma.png"><ItemWiki titulo=">" desc="O mapa da metrópole de Matnnahoma." /> </Link> <br />
                 <Image className={Wiki.img} src="../Matnnahoma/Hain'Ky.png" width={4095} height={4095} alt="Um mapa de Algihand" />
-                <ItemWiki titulo=">" desc="O mapa do porto de Hain'Ky." />
+                <Link href="../Matnnahoma/Matnnahoma.png"><ItemWiki titulo=">" desc="O mapa do porto de Hain'Ky." /> </Link> <br />
                 <Image className={Wiki.img} src="../Matnnahoma/Jarven.png" width={4095} height={4095} alt="Um mapa de Algihand" />
-                <ItemWiki titulo=">" desc="O mapa da cidade de Jarven." />
+                <Link href="../Matnnahoma/Matnnahoma.png"><ItemWiki titulo=">" desc="O mapa da cidade de Jarven." /> </Link> <br />
                 <Image className={Wiki.img} src="../Matnnahoma/Osteri.png" width={4095} height={4095} alt="Um mapa de Algihand" />
-                <ItemWiki titulo=">" desc="O mapa do porto de Osteri." />
+                <Link href="../Matnnahoma/Matnnahoma.png"><ItemWiki titulo=">" desc="O mapa do porto de Osteri." /> </Link > <br />
                 <Image className={Wiki.img} src="../Matnnahoma/Saarem'Ta.png" width={4095} height={4095} alt="Um mapa de Algihand" />
-                <ItemWiki titulo=">" desc="O mapa da cidade da ilha de Saarem'Ta." />
+                <Link href="../Matnnahoma/Matnnahoma.png"><ItemWiki titulo=">" desc="O mapa da cidade da ilha de Saarem'Ta." /> </Link> <br />
                 <Image className={Wiki.img} src="../Matnnahoma/Valissa.png" width={4095} height={4095} alt="Um mapa de Algihand" />
-                <ItemWiki titulo=">" desc="O mapa da cidade de Valissa." />
+                <Link href="../Matnnahoma/Matnnahoma.png"><ItemWiki titulo=">" desc="O mapa da cidade de Valissa." /> </Link>
             </div>
         </main>
     )
