@@ -29,7 +29,7 @@ export default function Avianos() {
                 <ItemWiki titulo="Fraquezas Vampíricas." desc="Um vampiro não pode entrar em contato com alho, o sol, não possuem reflexo e uma fraqueza por armas e objetos de metal." />
             </div>
             <div className={Wiki.images}>
-                <Image className={Wiki.img && Wiki.zoomable} src="../Vampiro.png" width={1600} height={1200} alt="Presas de um vampiro com a lua de fundo" />
+                <Image className={Wiki.img && Wiki.zoomable} src="../Raças/Vampiro.png" width={1600} height={1200} alt="Presas de um vampiro" />
             </div>
         </main>
     )
