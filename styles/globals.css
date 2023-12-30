@@ -50,11 +50,11 @@ h3 {
   margin: 2em 0 1em 0;
 }
 
-Link {
+a {
   text-decoration: underline transparent;
 }
 
-Link:hover {
+a:hover {
   color: var(--light-color);
   text-decoration: underline var(--medium-color);
 }
