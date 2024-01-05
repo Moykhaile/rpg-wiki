@@ -28,8 +28,6 @@ export default function Home() {
           <h1>Localidades</h1>
           <ul>
             <li><Link href="/Localidades/Algihand">O Continente de Algihand</Link></li>
-            <li><Link href="/Localidades/Matnnahoma">Matnnahoma</Link></li>
-            <li><Link href='/Localidades/Reino_dos_Anoes'>Reino dos Anões</Link></li>
           </ul>
         </div>
       </div>
